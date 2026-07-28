@@ -1,0 +1,1 @@
+# 无额外依赖，使用 ComfyUI 自带的 requests
